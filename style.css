@@ -40,5 +40,21 @@ h2{
 .middle-background{
     background-image: url(pictures/dream-bg.png);
     background-repeat: no-repeat;
-    background-position: right;
+    background-position:right;
+    background-size: 70px;
+}
+.big-maintaining{
+    padding-left: 3%;
+}
+.text-align{
+    text-align: justify;
+    padding: 70px 72px 0px 50px;
+}
+.text-color{
+    color: dimgray;
+}
+.down-text{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
 }
