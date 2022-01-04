@@ -53,8 +53,25 @@ h2{
 .text-color{
     color: dimgray;
 }
+#experience-head{
+    padding-left: 10px;
+}
 .down-text{
     margin-left: 5%;
-    margin-right: 5%;
+    margin-right: 3%;
+    padding-right: 2%;
     text-align: justify;
+}
+.left-box{
+    border-left: 8px solid;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+}
+.right-box{
+    border-left: 8px solid;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
 }
