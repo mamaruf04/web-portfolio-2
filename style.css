@@ -65,12 +65,21 @@ h2{
 .left-box{
     border-left: 8px solid;
     box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
+    border-radius: 10px;
+    border-image: linear-gradient(purple,red);
+    border-image-slice: 1;
 }
 .right-box{
     border-left: 8px solid;
     box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
+    border-radius: 10px;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+.exp-background{
+    background-image: url(pictures/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
 }
 footer{
     text-align: center;
